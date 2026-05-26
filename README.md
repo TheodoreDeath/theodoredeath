@@ -1,3 +1,13 @@
+## Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Vue](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+
+--
+
 ## About Me
 
 Frontend developer specializing in **TypeScript, Node.js, and Vue**.  
@@ -8,16 +18,6 @@ Currently exploring **GTA V server development** and creating custom modificatio
 Also interested in network infrastructure, server administration, information security, virtualization, and distributed systems.
 
 Currently learning and improving my skills in **C++** and low-level development.
-
----
-
-## Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Vue](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 
 ---
 
