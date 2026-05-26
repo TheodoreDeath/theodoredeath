@@ -13,7 +13,7 @@ TypeScript • Node.js • Vue • Learning C++
 Frontend developer specializing in **TypeScript, Node.js, and Vue**.  
 Focused on building modern interfaces, scalable frontend architecture, and interactive UI systems.
 
-Currently working on **GTA V server development** and creating modifications for **SAMP** and **GTA V**, including game interfaces, HUD systems, dashboards, and internal tools with a focus on performance and user experience.
+Currently exploring **GTA V server development** and creating custom modifications for **SAMP** and **GTA V**. Occasionally working on personal systems, interfaces, HUD elements, and tools related to multiplayer game development.
 
 Also interested in network infrastructure, server administration, information security, virtualization, and distributed systems.
 
@@ -40,9 +40,9 @@ Currently learning and improving my skills in **C++** and low-level development.
 
 ## Current Focus
 
-- GTA V Multiplayer Development
-- SAMP Modding
-- UI/UX Systems
 - Frontend Architecture
+- UI/UX Systems
+- GTA V & SAMP Modding
+- Multiplayer Systems
 - Server Infrastructure
 - C++ Learning
