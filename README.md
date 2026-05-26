@@ -31,7 +31,6 @@ Also interested in:
 
 Currently improving my skills in **C++** and system-level programming.
 
----
 
 # 🇷🇺 Русская версия
 Frontend-разработчик, специализирующийся на создании современных веб-приложений с использованием **TypeScript, Vue и Node.js**.
