@@ -1,13 +1,3 @@
-<div align="center">
-
-# Frontend Developer
-
-TypeScript • Node.js • Vue • Learning C++
-
-</div>
-
----
-
 ## About Me
 
 Frontend developer specializing in **TypeScript, Node.js, and Vue**.  
