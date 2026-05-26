@@ -1,39 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:1f6feb&text=Frontend%20Developer&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=TypeScript%20•%20Node.js%20•%20Vue%20•%20Learning%20C%2B%2B&descAlignY=60" width="100%" />
+# Frontend Developer
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+and+Frontend+Architecture;GTA+V+%26+SAMP+Modding;Learning+C%2B%2B+and+Low-Level+Development" />
+TypeScript • Node.js • Vue • Learning C++
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-```ts
-const developer = {
-    stack: ["TypeScript", "Node.js", "Vue", "JavaScript"],
+Frontend developer specializing in **TypeScript, Node.js, and Vue**.  
+Focused on building modern interfaces, scalable frontend architecture, and interactive UI systems.
 
-    learning: [
-        "C++",
-        "Low-Level Development"
-    ],
+Currently exploring **GTA V server development** and creating custom modifications for **SAMP** and **GTA V**. Occasionally working on personal systems, interfaces, HUD elements, and tools related to multiplayer game development.
 
-    interests: [
-        "Frontend Architecture",
-        "UI/UX Systems",
-        "Networking",
-        "Server Infrastructure",
-        "Virtualization",
-        "Distributed Systems"
-    ],
+Also interested in network infrastructure, server administration, information security, virtualization, and distributed systems.
 
-    currentlyExploring: [
-        "GTA V Multiplayer Development",
-        "SAMP Modding",
-        "Game Interfaces",
-        "HUD Systems"
-    ]
-};
+Currently learning and improving my skills in **C++** and low-level development.
+
+---
+
+## Tech Stack
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Vue](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+
+### Backend & Systems
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+
+---
+
+## Current Focus
+
+- Frontend Architecture
+- UI/UX Systems
+- GTA V & SAMP Modding
+- Multiplayer Systems
+- Server Infrastructure
+- C++ Learning
