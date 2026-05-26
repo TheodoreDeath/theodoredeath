@@ -1,13 +1,3 @@
-<div align="center">
-
-# Hi, I'm Developer 👋
-
-Frontend Developer • UI Engineer • Multiplayer Systems Enthusiast
-
-</div>
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -24,9 +14,6 @@ Frontend Developer • UI Engineer • Multiplayer Systems Enthusiast
 ---
 
 # 🇬🇧 English
-
-## 💫 About Me
-
 Frontend developer focused on building modern web applications using **TypeScript, Vue, and Node.js**.
 
 I enjoy creating scalable frontend architecture, interactive interfaces, and polished UI systems with strong attention to performance, maintainability, and clean design.
@@ -46,23 +33,7 @@ Currently improving my skills in **C++** and system-level programming.
 
 ---
 
-## 🚀 Current Focus
-
-```txt
-▸ Frontend Architecture
-▸ UI/UX Systems
-▸ GTA V & SA:MP Development
-▸ Multiplayer Systems
-▸ Server Infrastructure
-▸ C++ & Low-Level Development
-```
-
----
-
 # 🇷🇺 Русская версия
-
-## 💫 Обо мне
-
 Frontend-разработчик, специализирующийся на создании современных веб-приложений с использованием **TypeScript, Vue и Node.js**.
 
 Занимаюсь разработкой масштабируемой frontend-архитектуры, интерактивных интерфейсов и UI-систем с акцентом на производительность, поддержку и чистую структуру проекта.
@@ -79,24 +50,5 @@ Frontend-разработчик, специализирующийся на со�
 - Низкоуровневой разработкой
 
 В настоящее время углубляюсь в изучение **C++** и системного программирования.
-
----
-
-## 🚀 Текущий фокус
-
-```txt
-▸ Frontend-архитектура
-▸ UI/UX-системы
-▸ Разработка для GTA V и SA:MP
-▸ Мультиплеерные системы
-▸ Серверная инфраструктура
-▸ C++ и низкоуровневая разработка
-```
-
----
-
-<div align="center">
-
-### ⚡ Building interfaces, systems, and multiplayer experiences
 
 </div>
