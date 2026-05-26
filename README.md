@@ -18,16 +18,14 @@ Frontend developer focused on building modern web applications using **TypeScrip
 
 I enjoy creating scalable frontend architecture, interactive interfaces, and polished UI systems with strong attention to performance, maintainability, and clean design.
 
-Currently exploring **GTA V server development** and building custom systems, HUD elements, interfaces, and multiplayer-related tools for **GTA V** and **SA:MP** projects.
+Currently developing mods for **GTA V** and **SA:MP**, primarily focused on creating modern UI, HUD elements, and custom in-game interfaces.
 
 Also interested in:
 
-- Server Infrastructure
-- Networking
-- Virtualization
-- Distributed Systems
-- Information Security
-- Low-Level Development
+> Server Infrastructure
+> Networking
+> Virtualization
+> Information Security
 
 Currently improving my skills in **C++** and system-level programming.
 
@@ -37,16 +35,14 @@ Frontend-разработчик, специализирующийся на со�
 
 Занимаюсь разработкой масштабируемой frontend-архитектуры, интерактивных интерфейсов и UI-систем с акцентом на производительность, поддержку и чистую структуру проекта.
 
-Сейчас активно изучаю разработку серверов для **GTA V**, а также создаю кастомные системы, HUD-элементы, интерфейсы и инструменты для проектов на **GTA V** и **SA:MP**.
+Разрабатываю модификации для **GTA V** и **SA:MP**, уделяя основное внимание современным UI, HUD-элементам и пользовательским игровым интерфейсам.
 
 Также интересуюсь:
 
-- Серверной инфраструктурой
-- Сетевыми технологиями
-- Виртуализацией
-- Распределёнными системами
-- Информационной безопасностью
-- Низкоуровневой разработкой
+> Серверной инфраструктурой
+> Сетевыми технологиями
+> Виртуализацией
+> Информационной безопасностью
 
 В настоящее время углубляюсь в изучение **C++** и системного программирования.
 
