@@ -6,16 +6,21 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 
+---
+
+# English Version
+
 ## About Me
 
-Frontend developer specializing in **TypeScript, Node.js, and Vue**.  
-Focused on building modern interfaces, scalable frontend architecture, and interactive UI systems.
+Frontend developer focused on building modern web applications using **TypeScript, Vue, and Node.js**.
 
-Currently exploring **GTA V server development** and creating custom modifications for **SAMP** and **GTA V**. Occasionally working on personal systems, interfaces, HUD elements, and tools related to multiplayer game development.
+I specialize in creating scalable frontend architecture, interactive interfaces, and well-structured UI systems with a strong focus on performance and maintainability.
 
-Also interested in network infrastructure, server administration, information security, virtualization, and distributed systems.
+Currently exploring **GTA V server development** and building custom systems, interfaces, HUD elements, and multiplayer-related tools for **GTA V** and **SA:MP** projects.
 
-Currently learning and improving my skills in **C++** and low-level development.
+Also interested in backend infrastructure, server administration, networking, virtualization, distributed systems, and information security.
+
+Currently improving my skills in **C++** and low-level software development.
 
 ---
 
@@ -23,21 +28,26 @@ Currently learning and improving my skills in **C++** and low-level development.
 
 - Frontend Architecture
 - UI/UX Systems
-- GTA V & SAMP Modding
+- GTA V & SA:MP Development
 - Multiplayer Systems
 - Server Infrastructure
-- C++ Learning
+- C++ & Low-Level Development
 
-- ## Обо мне
+---
 
-Frontend-разработчик, специализирующийся на **TypeScript, Node.js и Vue**.  
-Занимаюсь созданием современных интерфейсов, масштабируемой frontend-архитектуры и интерактивных UI-систем.
+# Русская версия
 
-В настоящее время изучаю разработку серверов для **GTA V** и создаю кастомные модификации для **SAMP** и **GTA V**. Периодически работаю над собственными системами, интерфейсами, HUD-элементами и инструментами, связанными с разработкой мультиплеерных игровых проектов.
+## Обо мне
 
-Также интересуюсь сетевой инфраструктурой, администрированием серверов, информационной безопасностью, виртуализацией и распределёнными системами.
+Frontend-разработчик, специализирующийся на создании современных веб-приложений с использованием **TypeScript, Vue и Node.js**.
 
-Сейчас активно изучаю **C++** и низкоуровневую разработку.
+Занимаюсь разработкой масштабируемой frontend-архитектуры, интерактивных интерфейсов и UI-систем с акцентом на производительность, поддержку и чистую структуру проекта.
+
+Сейчас активно изучаю разработку серверов для **GTA V**, а также создаю кастомные системы, интерфейсы, HUD-элементы и инструменты для проектов на **GTA V** и **SA:MP**.
+
+Также интересуюсь серверной инфраструктурой, сетевыми технологиями, виртуализацией, распределёнными системами и информационной безопасностью.
+
+В настоящее время углубляюсь в изучение **C++** и низкоуровневой разработки.
 
 ---
 
@@ -45,7 +55,7 @@ Frontend-разработчик, специализирующийся на **Typ
 
 - Frontend-архитектура
 - UI/UX-системы
-- Моддинг GTA V и SAMP
+- Разработка для GTA V и SA:MP
 - Мультиплеерные системы
 - Серверная инфраструктура
-- Изучение C++
+- C++ и низкоуровневая разработка
