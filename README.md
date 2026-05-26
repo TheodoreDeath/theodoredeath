@@ -20,7 +20,6 @@ Currently learning and improving my skills in **C++** and low-level development.
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
 ---
