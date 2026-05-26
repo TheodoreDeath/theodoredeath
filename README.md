@@ -13,7 +13,6 @@
 
 ---
 
-# 🇬🇧 English
 Frontend developer focused on building modern web applications using **TypeScript, Vue, and Node.js**.
 
 I enjoy creating scalable frontend architecture, interactive interfaces, and polished UI systems with strong attention to performance, maintainability, and clean design.
@@ -28,22 +27,5 @@ Also interested in:
 > Information Security
 
 Currently improving my skills in **C++** and system-level programming.
-
-
-# 🇷🇺 Русская версия
-Frontend-разработчик, специализирующийся на создании современных веб-приложений с использованием **TypeScript, Vue и Node.js**.
-
-Занимаюсь разработкой масштабируемой frontend-архитектуры, интерактивных интерфейсов и UI-систем с акцентом на производительность, поддержку и чистую структуру проекта.
-
-Разрабатываю модификации для **GTA V** и **SA:MP**, уделяя основное внимание современным UI, HUD-элементам и пользовательским игровым интерфейсам.
-
-Также интересуюсь:
-
-> Серверной инфраструктурой
-> Сетевыми технологиями
-> Виртуализацией
-> Информационной безопасностью
-
-В настоящее время углубляюсь в изучение **C++** и системного программирования.
 
 </div>
